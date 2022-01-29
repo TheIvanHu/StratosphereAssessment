@@ -1,0 +1,16 @@
+.taglineBox {
+  background-color: #e9f1fd;
+  position: relative;
+}
+@media only screen and (max-width: 1200px) {
+  .taglineBox {
+    top: -5vh;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .taglineBox {
+    top: -25vh;
+    left: 40vh;
+  }
+}
