@@ -1,1 +1,1 @@
-#Stratosphere Takehome Assessment
+Stratosphere Takehome Assessment
